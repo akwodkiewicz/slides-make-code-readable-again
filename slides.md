@@ -234,19 +234,19 @@ vs
 # Behaviour goes first
 
 <v-click>
+
 - How does **it** behave, what does **it** do?
 - What are the rules of the behaviour, how does **it** do those things?
 - What is **it**?
+
 </v-click>
 
 <!-- 
-
 Names convey some meaning.
 
 - unknown responsiblity
 
 - wrong conetxt
-
 -->
 
 ---
